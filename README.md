@@ -1,4 +1,4 @@
-# Phishing para captura de credenciais do Facebook(WEBSITE PHISHING)
+# Phishing para captura de credenciais do Instagram(WEBSITE PHISHING)
 
 ### Ferramentas
 
@@ -14,7 +14,7 @@
 - Método de ataque: ```Credential Harvester Attack Method ```
 - Método de ataque: ``` Site Cloner ```
 - Obter endereço da máquina: ``` ifconfig ```
-- URL para clone: http://www.facebook.com
+- URL para clone: http://www.instagram.com
 
 ### Resutado
 
