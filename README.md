@@ -1,16 +1,20 @@
-## Hi there 👋
+# Phishing para captura de credenciais do Facebook(WEBSITE PHISHING)
 
-<!--
-**GustavoEleuterio/gustavoeleuterio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Ferramentas
 
-Here are some ideas to get you started:
+- Kali Linux
+- setoolkit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Configurando o Phishing no Kali Linux
+
+- Acesso root: ``` sudo su ```
+- Iniciando o setoolkit: ``` setoolkit ```
+- Tipo de ataque: ``` Social-Engineering Attacks ```
+- Vetor de ataque: ``` Web Site Attack Vectors ```
+- Método de ataque: ```Credential Harvester Attack Method ```
+- Método de ataque: ``` Site Cloner ```
+- Obter endereço da máquina: ``` ifconfig ```
+- URL para clone: http://www.facebook.com
+
+### Resutado
+
